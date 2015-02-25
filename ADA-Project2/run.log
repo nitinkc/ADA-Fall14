@@ -1,0 +1,117 @@
+****** Recursive version of Fibonacci terms ******
+fib(10)= 55	
+18 micro secs
+****** Recursive version of Fibonacci terms ******
+fib(20)= 6765	
+543 micro secs
+****** Recursive version of Fibonacci terms ******
+fib(30)= 832040	
+6518 micro secs
+****** Recursive version of Fibonacci terms ******
+fib(35)= 9227465	
+69381 micro secs
+****** Recursive version of Fibonacci terms ******
+fib(40)= 102334155	
+683254 micro secs
+****** Bottom up version of Fibonacci ******
+fib(10)= 55	
+3 micro secs
+****** Bottom up version of Fibonacci ******
+fib(20)= 6765	
+4 micro secs
+****** Bottom up version of Fibonacci ******
+fib(30)= 832040	
+4 micro secs
+****** Bottom up version of Fibonacci ******
+fib(35)= 9227465	
+4 micro secs
+****** Bottom up version of Fibonacci ******
+fib(40)= 102334155	
+4 micro secs
+***** Top Down (Memoization) version of Fibonacci terms *****
+fib(10)= 55	
+3 micro secs
+***** Top Down (Memoization) version of Fibonacci terms *****
+fib(20)= 6765	
+5 micro secs
+***** Top Down (Memoization) version of Fibonacci terms *****
+fib(30)= 832040	
+7 micro secs
+***** Top Down (Memoization) version of Fibonacci terms *****
+fib(35)= 9227465	
+7 micro secs
+***** Top Down (Memoization) version of Fibonacci terms *****
+fib(40)= 102334155	
+8 micro secs
+****** Matrix Chain Multiplication Recursive ******
+17000
+(((A1A2)A3)A4)
+6 micro secs
+****** Matrix Chain Multiplication Recursive ******
+600
+((A1(A2(A3A4)))A5)
+14 micro secs
+****** Matrix Chain Multiplication Recursive ******
+15125
+((A1(A2A3))((A4A5)A6))
+36 micro secs
+****** Matrix Chain Multiplication Recursive ******
+2998
+((A1(A2(A3(A4A5))))(A6A7))
+132 micro secs
+****** Matrix Chain Multiplication Recursive ******
+6362
+((A1(A2(A3(A4A5))))((A6A7)A8))
+366 micro secs
+****** Matrix Chain Multiplication Recursive ******
+14520
+(A1(((((((A2A3)A4)A5)A6)A7)A8)A9))
+515 micro secs
+****** Matrix Chain Multiplication (Bottom up) Dynamic ******
+17000
+(((A1A2)A3)A4)
+12 micro secs
+****** Matrix Chain Multiplication (Bottom up) Dynamic ******
+600
+((A1(A2(A3A4)))A5)
+18 micro secs
+****** Matrix Chain Multiplication (Bottom up) Dynamic ******
+15125
+((A1(A2A3))((A4A5)A6))
+22 micro secs
+****** Matrix Chain Multiplication (Bottom up) Dynamic ******
+2998
+((A1(A2(A3(A4A5))))(A6A7))
+24 micro secs
+****** Matrix Chain Multiplication (Bottom up) Dynamic ******
+6362
+((A1(A2(A3(A4A5))))((A6A7)A8))
+27 micro secs
+****** Matrix Chain Multiplication (Bottom up) Dynamic ******
+14520
+(A1(((((((A2A3)A4)A5)A6)A7)A8)A9))
+31 micro secs
+****** Matrix Chain Multiplication Top Down (Memoized) ******
+17000
+(((A1A2)A3)A4)
+15 micro secs
+****** Matrix Chain Multiplication Top Down (Memoized) ******
+600
+((A1(A2(A3A4)))A5)
+22 micro secs
+****** Matrix Chain Multiplication Top Down (Memoized) ******
+15125
+((A1(A2A3))((A4A5)A6))
+26 micro secs
+****** Matrix Chain Multiplication Top Down (Memoized) ******
+2998
+((A1(A2(A3(A4A5))))(A6A7))
+32 micro secs
+****** Matrix Chain Multiplication Top Down (Memoized) ******
+6362
+((A1(A2(A3(A4A5))))((A6A7)A8))
+40 micro secs
+****** Matrix Chain Multiplication Top Down (Memoized) ******
+14520
+(A1(((((((A2A3)A4)A5)A6)A7)A8)A9))
+43 micro secs

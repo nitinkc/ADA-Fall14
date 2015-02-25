@@ -1,0 +1,320 @@
+*************************************************
+Data from Insertion Sort with Data File named as input/identical1K.txt
+Input Size	# Comparisons	Time in MicroSeconds
+	1000			 999				 148
+*************************************************
+Data from Insertion Sort with Data File named as input/identical2K.txt
+Input Size	# Comparisons	Time in MicroSeconds
+	2000			 1999				 163
+*************************************************
+Data from Insertion Sort with Data File named as input/identical4K.txt
+Input Size	# Comparisons	Time in MicroSeconds
+	4000			 3999				 445
+*************************************************
+Data from Insertion Sort with Data File named as input/identical8K.txt
+Input Size	# Comparisons	Time in MicroSeconds
+	8000			 7999				 794
+*************************************************
+Data from Insertion Sort with Data File named as input/random1K.txt
+Input Size	# Comparisons	Time in MicroSeconds
+	1000			 248667				 15714
+*************************************************
+Data from Insertion Sort with Data File named as input/random2K.txt
+Input Size	# Comparisons	Time in MicroSeconds
+	2000			 971960				 6775
+*************************************************
+Data from Insertion Sort with Data File named as input/random4K.txt
+Input Size	# Comparisons	Time in MicroSeconds
+	4000			 4008554				 9515
+*************************************************
+Data from Insertion Sort with Data File named as input/random8K.txt
+Input Size	# Comparisons	Time in MicroSeconds
+	8000			 16153993				 23187
+*************************************************
+Data from Insertion Sort with Data File named as input/reversed1K.txt
+Input Size	# Comparisons	Time in MicroSeconds
+	1000			 499500				 9380
+*************************************************
+Data from Insertion Sort with Data File named as input/reversed2K.txt
+Input Size	# Comparisons	Time in MicroSeconds
+	2000			 1999000				 8162
+*************************************************
+Data from Insertion Sort with Data File named as input/reversed4K.txt
+Input Size	# Comparisons	Time in MicroSeconds
+	4000			 7998000				 12898
+*************************************************
+Data from Insertion Sort with Data File named as input/reversed8K.txt
+Input Size	# Comparisons	Time in MicroSeconds
+	8000			 31996000				 35884
+*************************************************
+Data from Insertion Sort with Data File named as input/sorted1K.txt
+Input Size	# Comparisons	Time in MicroSeconds
+	1000			 999				 91
+*************************************************
+Data from Insertion Sort with Data File named as input/sorted2K.txt
+Input Size	# Comparisons	Time in MicroSeconds
+	2000			 1999				 292
+*************************************************
+Data from Insertion Sort with Data File named as input/sorted4K.txt
+Input Size	# Comparisons	Time in MicroSeconds
+	4000			 3999				 384
+*************************************************
+Data from Insertion Sort with Data File named as input/sorted8K.txt
+Input Size	# Comparisons	Time in MicroSeconds
+	8000			 7999				 719
+*************************************************
+Data from Merge Sort with Data File named as input/identical1K.txt
+Input Size	# Comparisons	Time in MicroSeconds
+	1000			 24060				 205
+*************************************************
+Data from Merge Sort with Data File named as input/identical2K.txt
+Input Size	# Comparisons	Time in MicroSeconds
+	2000			 52124				 421
+*************************************************
+Data from Merge Sort with Data File named as input/identical4K.txt
+Input Size	# Comparisons	Time in MicroSeconds
+	4000			 112252				 543
+*************************************************
+Data from Merge Sort with Data File named as input/identical8K.txt
+Input Size	# Comparisons	Time in MicroSeconds
+	8000			 240508				 94
+*************************************************
+Data from Merge Sort with Data File named as input/random1K.txt
+Input Size	# Comparisons	Time in MicroSeconds
+	1000			 31442				 386
+*************************************************
+Data from Merge Sort with Data File named as input/random2K.txt
+Input Size	# Comparisons	Time in MicroSeconds
+	2000			 68710				 812
+*************************************************
+Data from Merge Sort with Data File named as input/random4K.txt
+Input Size	# Comparisons	Time in MicroSeconds
+	4000			 149642				 133
+*************************************************
+Data from Merge Sort with Data File named as input/random8K.txt
+Input Size	# Comparisons	Time in MicroSeconds
+	8000			 323128				 200
+*************************************************
+Data from Merge Sort with Data File named as input/reversed1K.txt
+Input Size	# Comparisons	Time in MicroSeconds
+	1000			 23836				 291
+*************************************************
+Data from Merge Sort with Data File named as input/reversed2K.txt
+Input Size	# Comparisons	Time in MicroSeconds
+	2000			 51678				 597
+*************************************************
+Data from Merge Sort with Data File named as input/reversed4K.txt
+Input Size	# Comparisons	Time in MicroSeconds
+	4000			 111362				 54
+*************************************************
+Data from Merge Sort with Data File named as input/reversed8K.txt
+Input Size	# Comparisons	Time in MicroSeconds
+	8000			 238760				 93
+*************************************************
+Data from Merge Sort with Data File named as input/sorted1K.txt
+Input Size	# Comparisons	Time in MicroSeconds
+	1000			 24060				 309
+*************************************************
+Data from Merge Sort with Data File named as input/sorted2K.txt
+Input Size	# Comparisons	Time in MicroSeconds
+	2000			 52124				 552
+*************************************************
+Data from Merge Sort with Data File named as input/sorted4K.txt
+Input Size	# Comparisons	Time in MicroSeconds
+	4000			 112252				 867
+*************************************************
+Data from Merge Sort with Data File named as input/sorted8K.txt
+Input Size	# Comparisons	Time in MicroSeconds
+	8000			 240508				 65
+*************************************************
+Data from Quick Sort with Data File named as input/identical1K.txt
+Input Size	# Comparisons	Time in MicroSeconds
+	1000			 499500				 8703
+*************************************************
+Data from Quick Sort with Data File named as input/identical2K.txt
+Input Size	# Comparisons	Time in MicroSeconds
+	2000			 1999000				 7889
+*************************************************
+Data from Quick Sort with Data File named as input/identical4K.txt
+Input Size	# Comparisons	Time in MicroSeconds
+	4000			 7998000				 20061
+*************************************************
+Data from Quick Sort with Data File named as input/identical8K.txt
+Input Size	# Comparisons	Time in MicroSeconds
+	8000			 31996000				 69825
+*************************************************
+Data from Quick Sort with Data File named as input/random1K.txt
+Input Size	# Comparisons	Time in MicroSeconds
+	1000			 10770				 1693
+*************************************************
+Data from Quick Sort with Data File named as input/random2K.txt
+Input Size	# Comparisons	Time in MicroSeconds
+	2000			 23545				 4176
+*************************************************
+Data from Quick Sort with Data File named as input/random4K.txt
+Input Size	# Comparisons	Time in MicroSeconds
+	4000			 50531				 4935
+*************************************************
+Data from Quick Sort with Data File named as input/random8K.txt
+Input Size	# Comparisons	Time in MicroSeconds
+	8000			 119035				 6021
+*************************************************
+Data from Quick Sort with Data File named as input/reversed1K.txt
+Input Size	# Comparisons	Time in MicroSeconds
+	1000			 499500				 7356
+*************************************************
+Data from Quick Sort with Data File named as input/reversed2K.txt
+Input Size	# Comparisons	Time in MicroSeconds
+	2000			 1999000				 8850
+*************************************************
+Data from Quick Sort with Data File named as input/reversed4K.txt
+Input Size	# Comparisons	Time in MicroSeconds
+	4000			 7983406				 24122
+*************************************************
+Data from Quick Sort with Data File named as input/reversed8K.txt
+Input Size	# Comparisons	Time in MicroSeconds
+	8000			 31852038				 53378
+*************************************************
+Data from Quick Sort with Data File named as input/sorted1K.txt
+Input Size	# Comparisons	Time in MicroSeconds
+	1000			 499500				 8970
+*************************************************
+Data from Quick Sort with Data File named as input/sorted2K.txt
+Input Size	# Comparisons	Time in MicroSeconds
+	2000			 1999000				 9755
+*************************************************
+Data from Quick Sort with Data File named as input/sorted4K.txt
+Input Size	# Comparisons	Time in MicroSeconds
+	4000			 7998000				 17930
+*************************************************
+Data from Quick Sort with Data File named as input/sorted8K.txt
+Input Size	# Comparisons	Time in MicroSeconds
+	8000			 31996000				 62681
+*************************************************
+Data from Heap Sort with Data File named as input/identical1K.txt
+Input Size	# Comparisons	Time in MicroSeconds
+	1000			 2997				 701
+*************************************************
+Data from Heap Sort with Data File named as input/identical2K.txt
+Input Size	# Comparisons	Time in MicroSeconds
+	2000			 5997				 1693
+*************************************************
+Data from Heap Sort with Data File named as input/identical4K.txt
+Input Size	# Comparisons	Time in MicroSeconds
+	4000			 11997				 2759
+*************************************************
+Data from Heap Sort with Data File named as input/identical8K.txt
+Input Size	# Comparisons	Time in MicroSeconds
+	8000			 23997				 4700
+*************************************************
+Data from Heap Sort with Data File named as input/random1K.txt
+Input Size	# Comparisons	Time in MicroSeconds
+	1000			 18822				 4651
+*************************************************
+Data from Heap Sort with Data File named as input/random2K.txt
+Input Size	# Comparisons	Time in MicroSeconds
+	2000			 41701				 7384
+*************************************************
+Data from Heap Sort with Data File named as input/random4K.txt
+Input Size	# Comparisons	Time in MicroSeconds
+	4000			 91474				 8622
+*************************************************
+Data from Heap Sort with Data File named as input/random8K.txt
+Input Size	# Comparisons	Time in MicroSeconds
+	8000			 198744				 8326
+*************************************************
+Data from Heap Sort with Data File named as input/reversed1K.txt
+Input Size	# Comparisons	Time in MicroSeconds
+	1000			 17953				 4615
+*************************************************
+Data from Heap Sort with Data File named as input/reversed2K.txt
+Input Size	# Comparisons	Time in MicroSeconds
+	2000			 39924				 9857
+*************************************************
+Data from Heap Sort with Data File named as input/reversed4K.txt
+Input Size	# Comparisons	Time in MicroSeconds
+	4000			 87993				 7468
+*************************************************
+Data from Heap Sort with Data File named as input/reversed8K.txt
+Input Size	# Comparisons	Time in MicroSeconds
+	8000			 192368				 8913
+*************************************************
+Data from Heap Sort with Data File named as input/sorted1K.txt
+Input Size	# Comparisons	Time in MicroSeconds
+	1000			 19636				 10398
+*************************************************
+Data from Heap Sort with Data File named as input/sorted2K.txt
+Input Size	# Comparisons	Time in MicroSeconds
+	2000			 43276				 10454
+*************************************************
+Data from Heap Sort with Data File named as input/sorted4K.txt
+Input Size	# Comparisons	Time in MicroSeconds
+	4000			 94706				 8164
+*************************************************
+Data from Heap Sort with Data File named as input/sorted8K.txt
+Input Size	# Comparisons	Time in MicroSeconds
+	8000			 205453				 8412
+*************************************************
+Data from 3 way mergesort with Data File named as input/identical1K.txt
+Input Size	# Comparisons	Time in MicroSeconds
+	1000			 6345				 1981
+*************************************************
+Data from 3 way mergesort with Data File named as input/identical2K.txt
+Input Size	# Comparisons	Time in MicroSeconds
+	2000			 13486				 3544
+*************************************************
+Data from 3 way mergesort with Data File named as input/identical4K.txt
+Input Size	# Comparisons	Time in MicroSeconds
+	4000			 29619				 6377
+*************************************************
+Data from 3 way mergesort with Data File named as input/identical8K.txt
+Input Size	# Comparisons	Time in MicroSeconds
+	8000			 65521				 20558
+*************************************************
+Data from 3 way mergesort with Data File named as input/random1K.txt
+Input Size	# Comparisons	Time in MicroSeconds
+	1000			 17321				 3413
+*************************************************
+Data from 3 way mergesort with Data File named as input/random2K.txt
+Input Size	# Comparisons	Time in MicroSeconds
+	2000			 38519				 4406
+*************************************************
+Data from 3 way mergesort with Data File named as input/random4K.txt
+Input Size	# Comparisons	Time in MicroSeconds
+	4000			 85699				 8593
+*************************************************
+Data from 3 way mergesort with Data File named as input/random8K.txt
+Input Size	# Comparisons	Time in MicroSeconds
+	8000			 187835				 27238
+*************************************************
+Data from 3 way mergesort with Data File named as input/reversed1K.txt
+Input Size	# Comparisons	Time in MicroSeconds
+	1000			 12084				 2087
+*************************************************
+Data from 3 way mergesort with Data File named as input/reversed2K.txt
+Input Size	# Comparisons	Time in MicroSeconds
+	2000			 26513				 3718
+*************************************************
+Data from 3 way mergesort with Data File named as input/reversed4K.txt
+Input Size	# Comparisons	Time in MicroSeconds
+	4000			 59858				 9131
+*************************************************
+Data from 3 way mergesort with Data File named as input/reversed8K.txt
+Input Size	# Comparisons	Time in MicroSeconds
+	8000			 126042				 23337
+*************************************************
+Data from 3 way mergesort with Data File named as input/sorted1K.txt
+Input Size	# Comparisons	Time in MicroSeconds
+	1000			 6345				 1972
+*************************************************
+Data from 3 way mergesort with Data File named as input/sorted2K.txt
+Input Size	# Comparisons	Time in MicroSeconds
+	2000			 13486				 3881
+*************************************************
+Data from 3 way mergesort with Data File named as input/sorted4K.txt
+Input Size	# Comparisons	Time in MicroSeconds
+	4000			 29619				 8747
+*************************************************
+Data from 3 way mergesort with Data File named as input/sorted8K.txt
+Input Size	# Comparisons	Time in MicroSeconds
+	8000			 65521				 22939

@@ -1,0 +1,4 @@
+Write an algorithm that sorts n integers, where each integer in the input appears exactly once and all integers are in the range 1 to k⋅n (inclusive), where k is a positive constant.
+The algorithm must be linear (Θ(n)).
+
+Consider a guessing problem, where you try to guess a secret positive integer in the range 1 to n.  Use the divide and conquer approach to design an algorithm GUESS that takes n as a parameter and attempts to find the secret by calling the helper CHECK (shown below) to check if your guess is correct (returns 0), less than the secret (returns -1) or greater than the secret (returns +1).  Your algorithm should make as few guesses as possible.
